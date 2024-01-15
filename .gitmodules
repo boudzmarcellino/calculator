@@ -1,0 +1,6 @@
+[submodule "calculator-sw"]
+	path = calculator-sw
+	url = git@github.com:boudzmarcellino/calculator-sw.git
+[submodule "calculator-hw"]
+	path = calculator-hw
+	url = git@github.com:boudzmarcellino/calculator-hw.git
